@@ -1,3 +1,6 @@
+npm init -y
+npm install chess.js inquirer
+
 // chessGame.js
 
 const { Chess } = require('chess.js');
